@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobileDevFundamentals17</string>
+
+    <string name="waiting_for_value">Waiting for value&#8230;</string>
+    <string name="what_time_is_it">¿Qué hora es?</string>
+
+</resources>
