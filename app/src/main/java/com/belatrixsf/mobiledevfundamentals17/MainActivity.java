@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         Log.d(TAG_LOG, "Initializing activity...");
         setContentView(R.layout.activity_main);
-        timeEditText = findViewById(R.id.timeEditText);
+        timeEditText = (EditText) findViewById(R.id.timeEditText);
     }
 
     public void buttonClicked(View v) {
