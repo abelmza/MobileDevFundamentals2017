@@ -7,7 +7,7 @@
     android:layout_margin="12dp"
     android:gravity="center_vertical"
     android:orientation="vertical"
-    tools:context="com.belatrixsf.mobiledevfundamentals17.MainActivity">
+    tools:context="com.belatrixsf.mobiledevfundamentals17.CurrentTimeActivity">
 
     <EditText
         android:id="@+id/timeEditText"

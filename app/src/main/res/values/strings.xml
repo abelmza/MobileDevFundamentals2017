@@ -4,4 +4,16 @@
     <string name="waiting_for_value">Waiting for value&#8230;</string>
     <string name="what_time_is_it">¿Qué hora es?</string>
 
+    <string name="exercise_1_and_2">Ejercicios 1 y 2</string>
+
+    <string name="exercise_5">Ejercicio 5</string>
+    <string name="select_image">Seleccionar imagen&#8230;</string>
+    <string name="no_image_selected">No se seleccionó ninguna imagen. ¿Desea intentar nuevamente?</string>
+
+    <string name="timer">Cronómetro</string>
+    <string name="start">Iniciar</string>
+    <string name="stop">Detener</string>
+    <string name="thread_timer">Timer usando Thread</string>
+    <string name="asynctask_timer">Timer usando AsyncTask</string>
+
 </resources>
